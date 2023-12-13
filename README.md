@@ -1,6 +1,8 @@
 <h1> Purpose </h1>
 Submission for Codedex's 24-hour hackathon! We took inspiration from Codedex's art style (pixel art) and the game, Unpacking. We decided to go with the "In the Holiday Spirit" track because it is a time when we can celebrate bonding with our friends and family. The purpose of the project was to give users something fun and relaxing to do with their loved ones and still get into the spirit of Christmas.
 
+Every image here is hand-drawn in pixel art style using Procreate. 
+
 
 It was amazing working with my partner, Brian, and we would like to thank Codedex for this opportunity! 
 
