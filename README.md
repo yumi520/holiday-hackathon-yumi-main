@@ -1,7 +1,8 @@
 <h1> Purpose </h1>
-Submission for Codedex's 24-hour hackathon
+Submission for Codedex's 24-hour hackathon! It was amazing working with my partner, Brian, and we would like to thank Codedex for this opportunity! 
 
-<h1>Image</h1>
+<h1>Images</h1>
+<img width="546" alt="Screenshot 2023-12-13 at 6 17 16 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/573e6ce8-f58f-480d-a923-4f47ae9b9e5f">
 <img width="546" alt="Screenshot 2023-12-13 at 6 59 19 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/7f53386c-7a8c-4eed-883d-8738ab216b6b">
 
 
@@ -24,5 +25,5 @@ There are boxes for the user to click and items will appear where they can be dr
 </ul>
 
 <h1> Tech Stack </h1>
-IDE, Host: Netlify
-Languages: Vanilla HTML/CSS/JS
+<li>IDE, Host: Netlify</li>
+<li>Languages: Vanilla HTML/CSS/JS</li>
