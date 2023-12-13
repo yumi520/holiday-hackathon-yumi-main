@@ -16,9 +16,7 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a></blockquote>
-
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/4Yzp2Tq" alt="video walkthrough">
 
 
 <h1> Team Stack </h1>
