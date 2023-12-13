@@ -10,7 +10,7 @@ It was amazing working with my partner, Brian, and we would like to thank Codede
 
 <h1>Images</h1>
 <img width="546" alt="Screenshot 2023-12-13 at 6 17 16 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/573e6ce8-f58f-480d-a923-4f47ae9b9e5f">
-<img width="1000" alt="Screenshot 2023-12-13 at 8 01 14 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/748a2075-02ad-4dbe-8230-da3826bf7094">
+<img width="546" alt="Screenshot 2023-12-13 at 8 01 14 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/748a2075-02ad-4dbe-8230-da3826bf7094">
 
 
 <h1> Features </h1>
