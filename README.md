@@ -15,8 +15,10 @@ Users can switch between 3 of the most popular Christmas songs, adjust the volum
 There are boxes for the user to click and items will appear where they can be dragged and dropped in certain areas of the room.
 
 <h1>Video</h1>
-<img src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/1f8c0131-da4d-4003-a156-5aec83c54ee6" alt="Video Walkthrough">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a></blockquote>
+
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <h1> Team Stack </h1>
