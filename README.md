@@ -16,9 +16,7 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-<video>
-<source src="/images/5znwFWA.mp4" type="video/mp4" />
-</video> 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a>
 
 
 <h1> Team Stack </h1>
