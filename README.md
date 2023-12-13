@@ -16,7 +16,9 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-<video src="/images/Christmas Designer.webm" alt="video walkthrough">
+<video>
+<source src="/images/Christmas Designer.webm" type="video/webm" />
+</video> 
 
 
 <h1> Team Stack </h1>
