@@ -16,7 +16,7 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 <img src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/1f8c0131-da4d-4003-a156-5aec83c54ee6" alt="Video Walkthrough">
-<img src="https://imgur.com/a/4Yzp2Tq" alt="Video Walkthrough">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 <h1> Team Stack </h1>
