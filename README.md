@@ -17,7 +17,7 @@ There are boxes for the user to click and items will appear where they can be dr
 <h1>Video</h1>
 
 <video>
-<source src="https://i.imgur.com/5znwFWA.mp4" type="video/mp4" />
+<source src="/images/5znwFWA.mp4" type="video/mp4" />
 </video> 
 
 
