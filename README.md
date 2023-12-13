@@ -1,6 +1,9 @@
 <h1> Purpose </h1>
 Submission for Codedex's 24-hour hackathon
 
+<h1>Image</h1>
+<img width="1165" alt="Screenshot 2023-12-13 at 6 17 16 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/65e21e1b-e320-427a-b12c-cab2a9bb59f3">
+
 <h1> Features </h1>
 
 <h2> Music Player</h2>
@@ -10,7 +13,8 @@ Users can switch between 3 of the most popular Christmas songs, adjust the volum
 There are boxes for the user to click and items will appear where it can be dragged and dropped in certain areas of the room.
 
 <h1>Video</h1>
-<img src="https://drive.google.com/file/d/1FFO8t0N94q_w78G4HxuzojLGYrj6b6UV/preview" width="640" height="480">
+[Christmas Designer.webm](https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/1f8c0131-da4d-4003-a156-5aec83c54ee6)
+
 
 <h1> Team Stack </h1>
 Yumiko Chow: Front-end design and engineering (HTML/CSS)
