@@ -16,7 +16,7 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-<img src="https://imgur.com/a/4Yzp2Tq" alt="video walkthrough">
+<img src="/images/Christmas Designer.webm" alt="video walkthrough">
 
 
 <h1> Team Stack </h1>
