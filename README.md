@@ -19,9 +19,7 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-
-
-https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/8f66591c-04b8-4467-be55-0708db62babe
+https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/b49c9c2c-e281-4309-9147-fd23444ff39b
 
 
 
