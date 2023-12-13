@@ -1,5 +1,8 @@
 <h1> Purpose </h1>
-Submission for Codedex's 24-hour hackathon! It was amazing working with my partner, Brian, and we would like to thank Codedex for this opportunity! 
+Submission for Codedex's 24-hour hackathon! We took inspiration from Codedex's art style (pixel art) and the game, Unpacking. We decided to go with the "In the Holiday Spirit" track because it is a time when we can celebrate bonding with our friends and family. The purpose of the project was to give users something fun and relaxing to do with their loved ones and still get into the spirit of Christmas.
+
+
+It was amazing working with my partner, Brian, and we would like to thank Codedex for this opportunity! 
 
 <h1>Images</h1>
 <img width="546" alt="Screenshot 2023-12-13 at 6 17 16 AM" src="https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/573e6ce8-f58f-480d-a923-4f47ae9b9e5f">
