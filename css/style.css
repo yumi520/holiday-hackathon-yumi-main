@@ -1,0 +1,567 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 16px;
+	background-color: #fff;
+	overflow: hidden;
+	display: flex;
+	background-image: url("../images/front-page-with-title.png");
+	background-repeat: no-repeat;
+	background-position: 430px 10px;
+	background-color: #32522b;
+}
+
+h1 {
+    color: #323330;
+}
+
+img{
+	object-fit: contain;
+}
+
+.container{
+	width: 100vw;
+	height: 100vh;
+}
+
+.living-room {
+	height: 768px;
+	width: 1024px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-image: url("../images/background1.png");
+	background-repeat: no-repeat;
+	margin: 10px auto;
+	/* border: 5px solid green; */
+
+}
+
+.window-curtain-container{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin: 400px 0px 20px 150px;
+	width: 100%;
+	height: 100px;
+}
+
+.drop-targets-1 {
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+	margin: 100px 20px 20px 20px;
+	height: 200px;
+}
+
+.box {
+	display: flex;
+	justify-content: center;
+	z-index: 1;
+	height: 100px;
+	width: 100px;
+	/* border: 1px solid red; */
+	position: relative;
+}
+.item-box{
+	height: 100px;
+	width: 100px;
+	display: flex; 
+	justify-content: center;
+}
+
+.item-box-1{
+}
+
+.item-box-2{
+
+}
+
+.package{
+	height: 100px;
+	width: 100px;
+	/* border: 1px solid blue; */
+}
+
+/* .drag-locations { */
+/*     border: dashed 3px gray; */
+/* } */
+
+/* .drag-over { */
+/*     border: dashed 3px red; */
+/* } */
+
+.item {
+	height: 120px;
+	width: 120px;
+}
+.ornament-item, .chocolate-item{
+	width: 25px;
+	height: 25px;
+	margin: auto;
+	/* border: 1px solid blue; */
+}
+
+.star-item{
+	position: absolute;
+	z-index: 10;
+	height: 80px;
+	width: 80px;
+	/* border: 1px solid purple; */
+}
+
+.hide{
+	display: none;
+}
+
+.beginDesign{
+	font-size: 24px;
+	padding: 20px 32px;
+	margin-top: 500px;
+	margin-left: 800px;
+	background-color: #528746;
+	border: #32522b;
+}
+
+.beginDesign:hover{
+	font-size: 24px;
+	padding: 20px 32px;
+	margin-top: 500px;
+	margin-left: 800px;
+	background-color: #32522b;
+	transition: all .4s ease;
+}
+
+.curtain{
+	width: 230px;
+	height: 180px;
+	object-fit: fill;
+	margin-left: 140px;
+	margin-bottom: 100px;
+}
+
+
+.tree-decorations{
+	display: flex;
+	justify-content: center;
+	position: absolute; 
+	width: 200px;
+	height: 370px;
+	margin: 0 50px 5px 75px;
+	/* border: solid red 1px; */
+}
+
+.star-placement{
+	position: absolute;
+	height: 50px;
+	width: 50px;	
+	/* border: 1px solid green; */
+	margin-top: 15px;
+	margin-left: 20px;
+}
+
+.on-the-table{
+	position: absolute;
+	margin-top: 400px;
+	margin-right: 30px;
+	width: 50px;
+	height: 50px;
+	/*border: solid blue 1px;*/
+}
+
+.table-space{
+	height: 10px;
+	/*border: purple solid 1px; */
+}
+
+.on-the-wall1{
+	position: absolute;
+	margin-top: 30px;
+	margin-right: 675px;
+	width: 50px;
+	height: 50px;
+}
+
+.on-the-wall2{
+	position: absolute;
+	margin-bottom: 130px;
+	margin-left: 245px;
+	width: 50px;
+	height: 50px;
+}
+
+.wall-space{
+	height: 10px;
+}
+
+.placement-ornaments{
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	margin-top: 55px;
+	margin-left: 15px;
+	padding-top: 20px;
+	width: 170px;
+	height: 250px;
+	/* border: solid blue 1px; */
+	flex-direction: column;
+}
+
+.ornaments-rows{
+	height: 30px;
+	 /*border: purple solid 1px; */
+}
+
+
+.ornament-row-0{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 3px;
+	width: 50px;
+}
+.ornament-row-1{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 3px;
+	width: 80px;
+}
+
+.ornament-row-2{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 5px;
+	width: 100px;
+}
+
+.ornament-row-3{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 5px;
+	width: 120px;
+}
+
+.ornament-row-4{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 5px;
+	width: 140px;
+}
+
+.ornament-row-5{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 5px;
+	width: 160px;
+}
+.ornament-row-6{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-top: 5px;
+	width: 185px;
+}
+
+.ornament{
+	width: 20px;
+	height: 20px;
+	margin: 3px;
+}
+
+.below-tree{
+	bottom: 0;
+	position: absolute;
+	width: 200px;
+	height: 80px;
+	/* border: 3px solid cyan; */
+	margin-left: 50px;
+	display: flex;
+	flex-direction: row;	
+	justify-content: right;
+}
+
+.below-location{
+	width: 50px;
+	height: 50px;
+	/* border: 1.5px solid pink; */
+	margin: 5px;
+}
+
+.present-item{
+	z-index: 10;
+}
+
+#item-3{ 
+	width: 80px;
+	height: 80px;
+}
+
+#item-4{ 
+	width: 100px;
+	height: 100px;
+}
+
+/* Music player css */
+.player {
+  	height: 15vh;  /*fix size after */
+	width: 100vw; /*fix size after */
+  	display: flex;
+  	align-items: center;
+  	flex-direction: row;
+  	justify-content: center;
+	position: absolute;
+	bottom: 0;
+	background-color: #528746;
+}
+ 
+.details {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 25px;
+}
+ 
+.track-art {
+  margin: 15px;
+  height: 60px;
+  width: 60px;
+  background-image: URL(
+     "https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f");
+  background-size: cover;
+  background-position: center;
+  border-radius: 15%;
+}
+ 
+/* Changing the font sizes to suitable ones */
+.track-name {
+	margin: 5px;
+  font-size: 1rem;
+}
+ 
+.track-artist {
+	margin: 5px;
+  font-size: 1rem;
+}
+ 
+/* Using flex with the row direction to
+   align items in a horizontal direction */
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+ 
+.playpause-track,
+.prev-track,
+.next-track {
+  padding: 10px;
+  opacity: 0.8;
+ 
+  /* Smoothly transition the opacity */
+  transition: opacity .2s;
+}
+ 
+/* Change the opacity when mouse is hovered */
+.playpause-track:hover,
+.prev-track:hover,
+.next-track:hover {
+  opacity: 1.0;
+}
+ 
+/* Define the slider width so that it scales properly */
+.slider_container {
+  width: 75%;
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ 
+/* Modify the appearance of the slider */
+.seek_slider, .volume_slider {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  height: 5px;
+  background: black;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+ 
+/* Modify the appearance of the slider thumb */
+.seek_slider::-webkit-slider-thumb,
+.volume_slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  background: white;
+  cursor: pointer;
+  border-radius: 50%;
+}
+ 
+/* Change the opacity when mouse is hovered */
+.seek_slider:hover,
+.volume_slider:hover {
+  opacity: 1.0;
+}
+ 
+.seek_slider {
+  width: 60%;
+}
+ 
+.volume_slider {
+  width: 30%;
+}
+ 
+.current-time,
+.total-duration {
+  padding: 10px;
+}
+ 
+i.fa-volume-down,
+i.fa-volume-up {
+  padding: 10px;
+}
+ 
+/* Change the mouse cursor to a pointer
+   when hovered over */
+i.fa-play-circle,
+i.fa-pause-circle,
+i.fa-step-forward,
+i.fa-step-backward {
+  cursor: pointer;
+}
+
+.snowflake,.snowflake .inner{
+	animation-iteration-count:infinite;animation-play-state:running
+}
+
+@keyframes snowflakes-fall
+{0%
+	{transform:translateY(0)}
+	100%{transform:translateY(110vh)}
+}
+@keyframes snowflakes-shake
+{0%,100%
+	{transform:translateX(0)}
+	50%{transform:translateX(80px)}
+}
+
+.snowflake{
+	position:fixed;
+	top:-10%;
+	z-index:9999;
+	-webkit-user-select:none;
+	user-select:none;cursor:default;
+	animation-name:snowflakes-shake;
+	animation-duration:3s;
+	animation-timing-function:ease-in-out
+}
+
+.snowflake .inner{
+	animation-duration:10s;
+	animation-name:snowflakes-fall;
+	animation-timing-function:linear
+}
+.snowflake:nth-of-type(0){
+	left:1%;animation-delay:0s
+}
+
+.snowflake:nth-of-type(0) .inner{
+	animation-delay:0s
+}
+
+.snowflake:first-of-type{
+	left:10%;animation-delay:1s
+}
+
+.snowflake:first-of-type .inner,.snowflake:nth-of-type(8) .inner{
+	animation-delay:1s
+}
+
+.snowflake:nth-of-type(2){
+	left:20%;animation-delay:.5s
+}
+
+.snowflake:nth-of-type(2) .inner,.snowflake:nth-of-type(6) .inner{
+	animation-delay:6s
+}
+
+.snowflake:nth-of-type(3){
+	left:30%;animation-delay:2s
+}
+
+.snowflake:nth-of-type(11) .inner,.snowflake:nth-of-type(3) .inner{
+	animation-delay:4s
+}
+
+.snowflake:nth-of-type(4){
+	left:40%;animation-delay:2s
+}
+
+.snowflake:nth-of-type(10) .inner,.snowflake:nth-of-type(4) .inner{
+	animation-delay:2s
+}
+
+.snowflake:nth-of-type(5){
+	left:50%;animation-delay:3s
+}
+
+.snowflake:nth-of-type(5) .inner{
+	animation-delay:8s
+}
+
+.snowflake:nth-of-type(6){
+	left:60%;animation-delay:2s
+}
+.snowflake:nth-of-type(7){
+	left:70%;animation-delay:1s
+}
+
+.snowflake:nth-of-type(7) .inner{
+	animation-delay:2.5s
+}
+
+.snowflake:nth-of-type(8){
+	left:80%;animation-delay:0s
+}
+
+.snowflake:nth-of-type(9){
+	left:90%;animation-delay:1.5s
+}
+
+.snowflake:nth-of-type(9) .inner{
+	animation-delay:3s
+}
+
+.snowflake:nth-of-type(10){
+	left:25%;animation-delay:0s
+}
+
+.snowflake:nth-of-type(11){
+	left:65%;animation-delay:2.5s
+}
+
+.snowflake {
+	color: #fff;
+	font-size: 1em;
+	font-family: Arial, sans-serif;
+	text-shadow: 0 0 5px #000;
+  }
