@@ -16,7 +16,11 @@ There are boxes for the user to click and items will appear where they can be dr
 
 <h1>Video</h1>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/4Yzp2Tq"  ><a href="//imgur.com/a/4Yzp2Tq">Christmas Designer - Codedex Hackathon</a>
+
+
+https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/8f66591c-04b8-4467-be55-0708db62babe
+
+
 
 
 <h1> Team Stack </h1>
