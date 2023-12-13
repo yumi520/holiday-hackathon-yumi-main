@@ -9,6 +9,9 @@ Users can switch between 3 of the most popular Christmas songs, adjust the volum
 <h2> Drag and Drop </h2>
 There are boxes for the user to click and items will appear where it can be dragged and dropped in certain areas of the room.
 
+<h1>Video</h1>
+<img src='file:///Users/yumikochow/Desktop/Christmas%20Designer.webm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <h1> Team Stack </h1>
 Yumiko Chow: Front-end design and engineering (HTML/CSS)
 Brian Yee: Front-end engineering (HTML/CSS/JS)
