@@ -1,8 +1,10 @@
 Link: https://christmasdesigner.netlify.app/
 
 <h1> Application </h1>
-Won "Best in the Holiday Spirit" Hack at codedex.io
-By Yumiko Chow and Brian Yee
+<ul>
+<li>Won "Best in the Holiday Spirit" Hack at https://www.codedex.io/</li>
+<li>By Yumiko Chow and Brian Yee</li>
+</ul>
 
 <h2> Purpose </h2>
 Submission for Codedex's 24-hour hackathon! We took inspiration from Codedex's art style (pixel art) and the game, Unpacking. We decided to go with the "In the Holiday Spirit" track because it is a time when we can celebrate bonding with our friends and family. The purpose of the project was to give users something fun and relaxing to do with their loved ones and still get into the spirit of Christmas.
