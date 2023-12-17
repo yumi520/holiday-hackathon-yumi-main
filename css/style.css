@@ -10,6 +10,8 @@ body {
 	background-color: #fff;
 	overflow: hidden;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 	background-image: url("../images/front-page-with-title.png");
 	background-repeat: no-repeat;
 	background-position: 243px 10px;
