@@ -1,4 +1,4 @@
-Link: https://christmasdesigner.netlify.app/ <strong>(make sure to change browser size to 80%!)</strong>
+Link: https://christmasdesigner.netlify.app/
 
 <h1> Application </h1>
 <ul>
