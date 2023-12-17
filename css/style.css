@@ -10,11 +10,10 @@ body {
 	background-color: #fff;
 	overflow: hidden;
 	display: flex;
-	justify-content: center;
-	align-items: center;
 	background-image: url("../images/front-page-with-title.png");
 	background-repeat: no-repeat;
-	background-position: 243px 10px;
+	background-position: center;
+	margin: 10px auto;
 	background-color: #32522b;
 }
 
@@ -323,7 +322,7 @@ img{
 	padding-bottom: 20px;
 	padding-right: 5px;
 	border-radius: 25px;
-	border: 2px solid #000000;
+	
 }
  
 .details {
