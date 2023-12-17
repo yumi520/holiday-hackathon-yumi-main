@@ -14,6 +14,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: #32522b;
+	height: 100vh; 
 }
 
 h1 {
