@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+@media screen and (min-width: 1140px) {
+	
+  }
+
 body {
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 	font-size: 16px;
@@ -14,7 +18,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: #32522b;
-	height: 100vh; 
+	height: 80vh; 
 }
 
 h1 {
@@ -79,13 +83,6 @@ img{
 	justify-content: center;
 }
 
-.item-box-1{
-}
-
-.item-box-2{
-
-}
-
 .package{
 	height: 100px;
 	width: 100px;
@@ -118,8 +115,8 @@ img{
 .beginDesign{
 	font-size: 24px;
 	padding: 20px 32px;
-	margin-top: 500px;
-	margin-left: 600px;
+	margin-top: 20em;
+	margin-left: 25em;
 	background-color: #528746;
 	border: 2px solid #000000;
 	border-radius: 25px;
@@ -128,8 +125,8 @@ img{
 .beginDesign:hover{
 	font-size: 24px;
 	padding: 20px 32px;
-	margin-top: 500px;
-	margin-left: 600px;
+	margin-top: 20em;
+	margin-left: 25em;
 	background-color: #32522b;
 	transition: all .4s ease;
 }
