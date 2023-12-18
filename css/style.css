@@ -14,7 +14,9 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-color: #32522b;
-	height: 768px; 
+	height: 100vh;
+  	justify-content: center;
+  	align-items: center;
 }
 
 h1 {
@@ -111,20 +113,15 @@ img{
 .beginDesign{
 	font-size: 24px;
 	padding: 20px 32px;
-	margin-top: 20em;
-	margin-left: 25em;
 	background-color: #528746;
 	border: 2px solid #000000;
 	border-radius: 25px;
+	margin-top: 20em;
 }
 
 .beginDesign:hover{
-	font-size: 24px;
-	padding: 20px 32px;
-	margin-top: 20em;
-	margin-left: 25em;
 	background-color: #32522b;
-	transition: all .4s ease;
+ 	 transition: all 0.4s ease;
 }
 
 .curtain{
@@ -304,14 +301,15 @@ img{
 /* Music player css */
 .player {
 	background-color: #528746;
+	border: 2px solid #000000;
   	display: flex;
 	align-items: center;
   	flex-direction: column; /*changed from row to column*/
   	justify-content: center;
 	position: absolute;
 	bottom: 0;
-	background-color: #528746;
-	margin-bottom: 300px;
+	right: 80%;
+  	margin-bottom: 20%;
 	padding-bottom: 20px;
 	padding-right: 5px;
 	border-radius: 25px;
