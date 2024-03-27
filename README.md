@@ -36,7 +36,7 @@ https://github.com/yumi520/holiday-hackathon-yumi-main/assets/75456756/b49c9c2c-
 
 <h2> Team Stack </h2>
 <ul>
-<li>Yumiko Chow: Front-end design and engineering (HTML/CSS)</li>
+<li>Yumiko Chow: Front-end design and engineering (HTML/CSS/JS)</li>
 <li>Brian Yee: Front-end engineering (HTML/CSS/JS)</li>
 </ul>
 
